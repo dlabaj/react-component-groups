@@ -11,7 +11,7 @@ The guide should be applicable when migrating from frontend-components **version
   **SOLUTION:** use the `className` property if you need a custom color
 ​
 ​
-## Battery
+## Severity
 ​
 - No action required
 ​

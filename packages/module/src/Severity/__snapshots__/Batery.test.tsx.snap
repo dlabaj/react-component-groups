@@ -1,13 +1,13 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Battery component API should hide label 1`] = `
+exports[`Severity component API should hide label 1`] = `
 <div>
   <i
     class="battery-0-2-1 batteryHigh-0-2-5"
-    data-ouia-component-id="Battery-icon"
+    data-ouia-component-id="Severity-icon"
     title="high high"
     widget-id="high"
-    widget-type="Battery"
+    widget-type="Severity"
   >
     <svg
       shape-rendering="geometricpresision"
@@ -29,14 +29,14 @@ exports[`Battery component API should hide label 1`] = `
 </div>
 `;
 
-exports[`Battery component should render correctly CriticalBattery 1`] = `
+exports[`Severity component should render correctly CriticalBattery 1`] = `
 <div>
   <i
     class="battery-0-2-1 batteryCritical-0-2-6"
-    data-ouia-component-id="Battery-icon"
+    data-ouia-component-id="Severity-icon"
     title="critical Critical"
     widget-id="Critical"
-    widget-type="Battery"
+    widget-type="Severity"
   >
     <svg
       shape-rendering="geometricpresision"
@@ -63,14 +63,14 @@ exports[`Battery component should render correctly CriticalBattery 1`] = `
 </div>
 `;
 
-exports[`Battery component should render correctly HighBattery 1`] = `
+exports[`Severity component should render correctly HighBattery 1`] = `
 <div>
   <i
     class="battery-0-2-1 batteryHigh-0-2-5"
-    data-ouia-component-id="Battery-icon"
+    data-ouia-component-id="Severity-icon"
     title="high High"
     widget-id="High"
-    widget-type="Battery"
+    widget-type="Severity"
   >
     <svg
       shape-rendering="geometricpresision"
@@ -97,14 +97,14 @@ exports[`Battery component should render correctly HighBattery 1`] = `
 </div>
 `;
 
-exports[`Battery component should render correctly LowBattery 1`] = `
+exports[`Severity component should render correctly LowBattery 1`] = `
 <div>
   <i
     class="battery-0-2-1 batteryLow-0-2-3"
-    data-ouia-component-id="Battery-icon"
+    data-ouia-component-id="Severity-icon"
     title="low Low"
     widget-id="Low"
-    widget-type="Battery"
+    widget-type="Severity"
   >
     <svg
       shape-rendering="geometricpresision"
@@ -131,14 +131,14 @@ exports[`Battery component should render correctly LowBattery 1`] = `
 </div>
 `;
 
-exports[`Battery component should render correctly MediumBattery 1`] = `
+exports[`Severity component should render correctly MediumBattery 1`] = `
 <div>
   <i
     class="battery-0-2-1 batteryMedium-0-2-4"
-    data-ouia-component-id="Battery-icon"
+    data-ouia-component-id="Severity-icon"
     title="medium Medium"
     widget-id="Medium"
-    widget-type="Battery"
+    widget-type="Severity"
   >
     <svg
       shape-rendering="geometricpresision"
@@ -165,14 +165,14 @@ exports[`Battery component should render correctly MediumBattery 1`] = `
 </div>
 `;
 
-exports[`Battery component should render correctly NullBatery, default 1`] = `
+exports[`Severity component should render correctly NullBatery, default 1`] = `
 <div>
   <i
     class="battery-0-2-1 batteryDefault-0-2-2"
-    data-ouia-component-id="Battery-icon"
+    data-ouia-component-id="Severity-icon"
     title=" "
     widget-id=""
-    widget-type="Battery"
+    widget-type="Severity"
   >
     <svg
       shape-rendering="geometricpresision"

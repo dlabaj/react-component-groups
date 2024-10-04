@@ -1,6 +1,6 @@
 import React from 'react';
-import Battery, { BatterySeverity } from '@patternfly/react-component-groups/dist/dynamic/Battery';
+import Severity, { SeverityLevel } from '@patternfly/react-component-groups/dist/dynamic/Severity';
 
 export const BasicExample: React.FunctionComponent = () => (
-  <Battery severity={BatterySeverity.high} label="High severity" />
+  <Severity severity={SeverityLevel.high} label="High severity" />
 );

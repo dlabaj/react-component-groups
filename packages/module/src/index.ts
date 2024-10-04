@@ -66,8 +66,8 @@ export * from './CloseButton';
 export { default as BulkSelect } from './BulkSelect';
 export * from './BulkSelect';
 
-export { default as Battery } from './Battery';
-export * from './Battery';
+export { default as Severity } from './Severity';
+export * from './Severity';
 
 export { default as Ansible } from './AnsibleSupport';
 export * from './AnsibleSupport';
